@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/random-avatar-app-react/static/css/main.25d5f31b.css",
+    "main.js": "/random-avatar-app-react/static/js/main.f9776710.js",
+    "static/js/453.493045cb.chunk.js": "/random-avatar-app-react/static/js/453.493045cb.chunk.js",
+    "index.html": "/random-avatar-app-react/index.html",
+    "main.25d5f31b.css.map": "/random-avatar-app-react/static/css/main.25d5f31b.css.map",
+    "main.f9776710.js.map": "/random-avatar-app-react/static/js/main.f9776710.js.map",
+    "453.493045cb.chunk.js.map": "/random-avatar-app-react/static/js/453.493045cb.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.25d5f31b.css",
+    "static/js/main.f9776710.js"
+  ]
+}
